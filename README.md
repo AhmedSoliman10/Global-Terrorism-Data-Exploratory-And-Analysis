@@ -1,4 +1,4 @@
-# Global-Terrorism-Data-Exploratory-Data-Analysis
+# Global Terrorism Data Exploratory And Analysis
 Data Analysis and Visualization Project About 'Global Terrorism' Using PowerBI
 
 ## Page 1:
